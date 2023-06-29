@@ -2,9 +2,9 @@
 
 I design, build CI/CD pipelines using gitlab inhouse solution. We use openstack for 
 logs.
-🌱 In 2023 I'm learning FastAPI, Terraform.
-
-I have ADHD
+- 🌱 In 2023 I'm learning FastAPI, Terraform.
+- I have ADHD
+- 🔭 I’m currently working on simple QRcode generator for URL using FastAPI.
 
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
