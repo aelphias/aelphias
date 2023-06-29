@@ -2,7 +2,9 @@
 
 I design, build CI/CD pipelines using gitlab inhouse solution. We use openstack for 
 logs.
+🌱 In 2023 I'm learning FastAPI, Terraform.
 
+I have ADHD
 
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
