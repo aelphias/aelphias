@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I design, build CI/CD pipelines using gitlab inhouse solution. We use openstack for 
-logs.
+I design, build CI/CD pipelines. 
 - 🌱 In 2023 I'm learning k8s.
 - 🥷 I have ADHD
 - 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2)
