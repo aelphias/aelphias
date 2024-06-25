@@ -3,7 +3,7 @@
 I design, build CI/CD pipelines. 
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s in big tech company.
 - 🥷 I have ADHD
-- 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2)
+- 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2) and prepare for RHCSA
 
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
